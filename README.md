@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nicolas Rheinheimer</h1>
 <h3 align="center">Data Analyst | Data Science</h3>
 
-- 🔭 I’m currently working on g SQL, Python and Power BI **Data analysis projects involving SQL, Python and Power BI**
+- 🔭 I’m currently working on **Data analysis projects involving SQL, Python and Power BI**
 
 - 🌱 I’m currently learning **Statistics and Python for data science**
 
