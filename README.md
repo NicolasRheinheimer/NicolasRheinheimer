@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nicolas Rheinheimer</h1>
-<h3 align="center">Data Analyst | Data Science</h3>
+<h3 align="center">Data Analyst | Data Science enthusiast</h3>
 
 - 🔭 I’m currently working on **Data analysis projects involving SQL, Python and Power BI**
 
